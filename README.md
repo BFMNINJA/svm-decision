@@ -14,6 +14,9 @@ This project demonstrates the application of Support Vector Machines (SVM) for b
 
 The project uses the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) (provided as `breast-cancer.csv`).
 
+## Screenshots:-
+![image](https://github.com/user-attachments/assets/436b3e54-80bb-4c64-a55f-81c87f04f8ca)
+
 ## Getting Started
 
 ### 1. Clone the repository
@@ -21,6 +24,3 @@ The project uses the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://arc
 ```sh
 git clone [https://github.com/BFMNINJA/svm-decision.git](https://github.com/BFMNINJA/svm-decision.git)
 cd svm-decision
-
-## Screenshots:-
-![image](https://github.com/user-attachments/assets/436b3e54-80bb-4c64-a55f-81c87f04f8ca)
